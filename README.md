@@ -1,4 +1,4 @@
-# data-engineering-quick-pipeline.
+# data-engineering-quick-pipeline
 Automated ETL pipeline with Airflow, Spark &amp; PostgreSQL
 # Data Engineering Quick Win Pipeline 🚀
 
